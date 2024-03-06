@@ -1,3 +1,3 @@
-Develop a registration form to sign up
+Developed a registration form to sign up
 and store user information using HTML,
 CSS, Node.js and MongoDB.
